@@ -127,7 +127,7 @@ This computes PSNR and SSIM scores on a sample test set and saves visual outputs
 
 ## 📑 Report & Submission
 
-- `report_task2.pdf`: Written in IEEE format.
+- `report_task2.pdf`
 - Includes visual comparisons, methodology, architecture changes, and evaluation metrics.
 
 ---
