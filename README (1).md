@@ -124,16 +124,6 @@ enhanced_srgan.ipynb
 
 ---
 
-## 📸 Visual Outputs
-
-- Outputs are stored in:
-  - `results/srgan_outputs/` (for Task 1)
-  - `results/enhanced_outputs/` (for Task 2)
-
-Side-by-side comparisons show major improvements in edge quality and texture preservation.
-
----
-
 ## 📚 References
 
 - **SRGAN Paper:** [arXiv:1609.04802](https://arxiv.org/abs/1609.04802)
