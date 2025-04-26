@@ -1,7 +1,7 @@
 
 # Enhanced SRGAN for Image Super-Resolution
 
-This repository contains the source code, training scripts, evaluation scripts, and comparative results report for the enhanced SRGAN model developed as part of **Task 2**.
+This repository contains the source code, training scripts, evaluation scripts, and comparative results report for the enhanced SRGAN model developed.
 
 We enhance the original SRGAN architecture by incorporating concepts from **ESRGAN**, mainly the use of **Residual-in-Residual Dense Blocks (RRDB)** without Batch Normalization, and using **L1 loss** instead of MSE. Evaluation is done using PSNR and SSIM metrics.
 
@@ -118,19 +118,13 @@ This computes PSNR and SSIM scores on a sample test set and saves visual outputs
 
 | Model             | PSNR (dB) | SSIM  |
 |------------------|-----------|-------|
-| SRGAN (Original) | 23.85     | 0.675 |
-| Enhanced Model    | **26.14** | **0.725** |
+| SRGAN (Original) | 21.00     | 0.474 |
+| Enhanced Model    | **29.06** | **0.829** |
 
 - The enhanced model demonstrates better edge sharpness, texture preservation, and less artifacting.
 
 ---
 
-## 📑 Report & Submission
-
-- `report_task2.pdf`
-- Includes visual comparisons, methodology, architecture changes, and evaluation metrics.
-
----
 
 ## 🔮 Future Work
 
